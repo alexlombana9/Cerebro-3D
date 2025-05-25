@@ -86,7 +86,7 @@ Próximamente se añadirá la visualización real del cerebro humano.
 
 ## 🧠 Créditos
 
-Creado por **AlexUnfinded** – Proyecto educativo y exploratorio para entender la relación entre programación, visualización 3D y neurociencia.
+Creado por **Alex Lombana** – Proyecto educativo y exploratorio para entender la relación entre programación, visualización 3D y neurociencia.
 
 ---
 
